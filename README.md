@@ -75,6 +75,6 @@ python app.py
 - Interview history
 - Database integration
 
-## 👨Author
+## Author
 
 **Sarah G**
